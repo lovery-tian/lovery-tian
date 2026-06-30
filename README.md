@@ -19,6 +19,20 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&width=600&lines=Hi+there+%F0%9F%91%8B%2C+I+am+lovery-tian;+Welcome+to+My+Profile!;Hardware+%26+Software+Engineer;Embedded+Systems+Developer;AI+%26+Machine+Learning+Enthusiast)](https://git.io/typing-svg)
 
 
+<!--   about-me -->
+<img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 40px> **About Me**
+
+<p>
+  <em>
+    - 🎓 Passionate about <b>Embedded Systems</b> & <b>Hardware Engineering</b><br>
+    - 🤖 Enthusiast in <b>Machine Learning</b> & <b>Artificial Intelligence</b><br>
+    - 💻 Skilled in <b>C/C++</b>, <b>Python</b>, and <b>Embedded Development</b><br>
+    - 🔧 Experienced with <b>STM32</b>, <b>ARM</b>, and <b>Arduino</b> platforms<br>
+    - 🌱 Always learning and exploring new technologies<br>
+  </em>
+</p>
+
+
 <!--   my-skils -->
 
 | Property                                        | Data                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -43,9 +57,22 @@
 
 <!--   grid-snake -->
 ![](https://raw.githubusercontent.com/lovery-tian/lovery-tian/output/github-contribution-grid-snake.svg)
+<!--   dark snake -->
+![lovery-tian's github activity graph dark](https://raw.githubusercontent.com/lovery-tian/lovery-tian/output/github-contribution-grid-snake-dark.svg)
+
 
 <!--   2D history skills -->
 <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=lovery-tian" width="auto"></img>
+
+<!--   3D profile contrib -->
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+<!--   CodersRank summary -->
+<img src="https://cr-summary-widget.azurewebsites.net/api/api?username=lovery-tian" width="auto"></img>
+
+<!--   GitHub metrics -->
+<img src="/github-metrics.svg" alt="Metrics" width="100%">
+
 
 **How to Reach me:**
 <p align="left">
@@ -72,6 +99,18 @@ graph TD;
     machine-learning-->Evaluation-Metrics;
     machine-learning-->Deployment;
 ```
+
+<!--   embedded-systems -->
+```mermaid
+graph TD;
+    embedded-systems-->Microcontrollers;
+    embedded-systems-->RTOS;
+    embedded-systems-->Peripherals;
+    embedded-systems-->PCB-Design;
+    embedded-systems-->Firmware;
+    embedded-systems-->Debugging;
+```
+
 
 <!-- China - My Home-->
 
@@ -107,6 +146,8 @@ graph TD;
 <p align="center"> 
 <img src="https://profile-counter.glitch.me/lovery-tian/count.svg">  
 
+<a href="http://s01.flagcounter.com/more/ap7"><img src="https://s01.flagcounter.com/countxl/ap7/bg_FFFFFF/txt_000000/border_CCCCCC/columns_8/maxflags_250/viewers_0/labels_1/pageviews_1/flags_0/percent_0/" alt="Flag Counter" border="0"></a>
+
 counting of visitors to this page in this section started from June 30, 2026
 
 ## Star History
@@ -127,10 +168,18 @@ counting of visitors to this page in this section started from June 30, 2026
   *If you liked my profile, you can Star the repo and if you want to use this template you can Fork it and can use.* 
 ---
 
+
+---
+  *I use an automatic subscription control system. Thus, everyone who subscribes to me, I will subscribe to those and I will respond, and vice versa, I will remove all those who unsubscribe from me from among those who should be followed.* 
+---
+
 Would you like to meet me?
 
 If you want to contribute to any of my repositories, feel free to submit PRs, issues and email me. Pick a slot if you'd like to meet me and chat about proposals and ideas - but make sure to describe the agenda
 
 ---
+
+
+[for the future hacker...](https://referral.hackthebox.com/mz8gTFM)
 
 ![](assets/Bottom_down.svg)
